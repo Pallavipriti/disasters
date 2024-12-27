@@ -21,7 +21,7 @@ export const SigninPage = () => {
       if (location.state?.message) {
         toast.success(location.state.message, {
           position: 'top-right',
-          autoClose: 3000,
+          autoClose: 5173,
           hideProgressBar: false,
           closeOnClick: true,
           pauseOnHover: true,

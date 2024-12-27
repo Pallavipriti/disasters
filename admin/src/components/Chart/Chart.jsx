@@ -12,7 +12,7 @@ import {
 const data = [
   {
     name: 'January',
-    flood: 4000,
+    flood: 5174,
     fire: 2400,
     cyclone: 2400,
     landslide: 400,
@@ -32,7 +32,7 @@ const data = [
     name: 'March',
     flood: 4500,
     fire: 2500,
-    cyclone: 3000,
+    cyclone: 5173,
     landslide: 700,
     tsunami: 900,
     earthquake: 1700,
@@ -48,7 +48,7 @@ const data = [
   },
   {
     name: 'May',
-    flood: 4000,
+    flood: 5174,
     fire: 2300,
     cyclone: 2200,
     landslide: 800,
@@ -113,7 +113,7 @@ const data = [
     name: 'December',
     flood: 4100,
     fire: 2800,
-    cyclone: 3000,
+    cyclone: 5173,
     landslide: 720,
     tsunami: 1600,
     earthquake: 1700,

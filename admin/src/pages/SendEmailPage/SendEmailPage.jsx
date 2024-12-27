@@ -46,7 +46,7 @@ export const SendEmailPage = () => {
 Disaster Details:
   ${plainTextDescription}
 
-View the full disaster report here: http://localhost:3000/${
+View the full disaster report here: http://localhost:5173/${
       incident.id
     }`;
 

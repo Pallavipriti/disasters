@@ -2,7 +2,7 @@ import "./FeatureChart.scss"
 import { PieChart, Pie, Cell, Tooltip, Legend } from 'recharts';
 
 const data = [
-  { name: 'Flood', value: 4000 },
+  { name: 'Flood', value: 5174 },
   { name: 'Fire', value: 2400 },
   { name: 'Cyclone', value: 2400 },
   { name: 'Landslide', value: 400 },
