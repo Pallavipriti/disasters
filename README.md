@@ -1,1 +1,1 @@
-# disasters
+# disasters properties
