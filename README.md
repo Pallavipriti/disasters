@@ -73,7 +73,7 @@ npm run dev
 
 ## Usage
 
-1. Open your browser and go to `http://localhost:5173`.
+1. Open your browser and go to `http://localhost:3000`.
 2. Register or log in to the system.
 3. Report an incident by filling out the incident report form.
 4. Admin will verify the report.
